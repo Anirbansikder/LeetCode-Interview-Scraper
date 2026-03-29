@@ -16,7 +16,7 @@ npm install
 
 Run the following command:
 
-node login.js
+`node login.js`
 
 - This will open the LeetCode login page in your browser  
 - Enter your email and password  
@@ -47,7 +47,7 @@ module.exports = ["google", "amazon", "frontend", "react"];
 
 ### Step 3: Run the Scraper
 
-node scrape-interviews.js
+`node scrape-interviews.js`
 
 - The script will:
   - Scrape interview discussions matching your keywords  
