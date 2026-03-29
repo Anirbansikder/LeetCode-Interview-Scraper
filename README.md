@@ -56,7 +56,7 @@ node scrape-interviews.js
 
 ---
 
-## 📄 Output
+## Output
 
 - A generated file containing:
   - Filtered LeetCode discussion links  
@@ -64,7 +64,7 @@ node scrape-interviews.js
 
 ---
 
-## 🧠 Future Improvements
+## Future Improvements
 
 - AI-based filtering to:
   - Remove low-quality discussions  
