@@ -20,7 +20,7 @@ node login.js
 
 - This will open the LeetCode login page in your browser  
 - Enter your email and password  
-- Do NOT use OAuth (Google/GitHub login), as it won’t work. I am not stealing it 😛
+- Do NOT use OAuth (Google/GitHub login), as it won’t work.
 
 After logging in:
 - Return to the CLI  
@@ -30,7 +30,7 @@ This will store your session tokens locally in:
 
 leetcode-auth.json
 
-Tokens are stored only on your machine.
+Tokens are stored only on your machine. I am not stealing it 😛
 
 ---
 
